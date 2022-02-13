@@ -9,7 +9,7 @@ I'm a Full Stack Software Developer, enthusiatic about Blockchain and DevOps. I 
 <!-- TODO: Add last video link -->
 
 - I'm currently working as a Software engineer @SEB || DevOps/Mainframe || FullStack Developer
-- 🔭 I’m currently working my master thesis at @RI.SE.
+- 🔭 I’m currently working my master thesis at @RI.SE - Status Pending...
 - I'm working at SITA as a mentor of fullstack developer-part time
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for learning more in DevOps and Blockchain.

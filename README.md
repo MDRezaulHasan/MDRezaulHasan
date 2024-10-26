@@ -31,7 +31,7 @@ I'm a Full Stack Software Developer, enthusiatic about Blockchain and DevOps. I 
 [![Elastic search Badge](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](#)
 
 #### Pipeline
-[![GitHub Action Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white)](#)
+[![Github Action Badge](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white)](#)
 [![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](#)
 
 #### Cloud Knowledge
